@@ -1,0 +1,41 @@
+
+
+	Resultados del juego!
+Jugador 1: Juan 
+Jugador 2: Miguel
+Total de puntos del jugador 1: 350
+Total de puntos del jugador 2: 200
+
+El ganador fue el jugador 1!
+
+	Resultados del juego!
+Jugador 1: Mauricio
+Jugador 2: Diego
+Total de puntos del jugador 1: 100
+Total de puntos del jugador 2: 0
+
+El ganador fue el jugador 1!
+
+	Resultados del juego!
+Jugador 1: Mauricio
+Jugador 2: Javier
+Total de puntos del jugador 1: 100
+Total de puntos del jugador 2: 0
+
+El ganador fue el jugador 1!
+
+	Resultados del juego!
+Jugador 1: Juan
+Jugador 2: Pedro
+Total de puntos del jugador 1: 0
+Total de puntos del jugador 2: 100
+
+El ganador fue el jugador 2!
+
+	Resultados del juego!
+Jugador 1: Ines
+Jugador 2: Juan
+Total de puntos del jugador 1: 0
+Total de puntos del jugador 2: 100
+
+El ganador fue el jugador 2!
