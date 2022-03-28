@@ -1,6 +1,5 @@
 """
 Proyecto Final: Juego de Jeopardy
-Miguel Steven Nguyen
 Juan José Salazar Cortés
 Terminado 12/10/21
 """
